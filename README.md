@@ -3,7 +3,7 @@ a simple todo app using python
 
 # Basic Idea
 
-Create a todo app using python + Django backend and Emberjs frontend.
+Create a todo app using python + Django backend and js frontend.
 
 # Ideas / Use Cases
 
